@@ -33,10 +33,6 @@ input {
     font-size: 16px;
 }
 
-input::placeholder {
-    text-align: center;
-}
-
 .btn {
     display: flex;
     justify-content: center;
